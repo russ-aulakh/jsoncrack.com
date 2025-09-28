@@ -1,7 +1,7 @@
 name: Sync fork (merge)
 on:
   schedule:
-    - cron: "50 4 * * *"
+    - cron: "52 3 * * *"
   workflow_dispatch:
 
 permissions:
